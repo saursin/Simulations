@@ -19,3 +19,5 @@ $ python3 Collatz_conjecture.py
 
 ## Example
 ![example](example.png)
+
+Special thanks to Derek: [The Simplest Math Problem No One Can Solve - Collatz Conjecture](https://www.youtube.com/watch?v=094y1Z2wpJg)
